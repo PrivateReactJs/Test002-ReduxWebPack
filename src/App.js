@@ -5,7 +5,7 @@ import Store from "./js/store/";
 const App = () => {
   return (
     <div>
-      <Store /> 
+      
       <p>React here with store!</p>
     </div>
   );
