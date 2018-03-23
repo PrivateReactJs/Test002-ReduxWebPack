@@ -1,3 +1,7 @@
+//
+// Obsolete
+//
+
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
 import Store from "./js/store/";
@@ -5,6 +9,7 @@ import Store from "./js/store/";
 const App = () => {
   return (
     <div>
+      
       <p>React here with store!</p>
     </div>
   );
@@ -12,4 +17,4 @@ const App = () => {
 
 export default App;
 
-ReactDOM.render(<App/>, document.getElementById("app"));
+ReactDOM.render(<App> </App>, document.getElementById("app"));
