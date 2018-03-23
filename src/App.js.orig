@@ -17,5 +17,4 @@ const App = () => {
 
 export default App;
 
-//alors modifié ou pas modifié
-ReactDOM.render(<App> </App>, document.getElementById("app"));
+ReactDOM.render(<App/>, document.getElementById("app"));
