@@ -4,13 +4,14 @@
 
 
 
-# How to install redux library:
+## How to install redux library:
 
+```
 npm install --save redux
+```
 
 
-# How to install react-redux:
-
+## How to install [react-redux](https://github.com/reactjs/react-redux/tree/master/docs):
 ```
 npm i react-redux --save-dev
 ```
@@ -21,6 +22,12 @@ To fetch the items, we’re going to use the aptly named Fetch API. Fetch makes 
 ```
 npm install whatwg-fetch --save
 ```
+
+
+
+
+
+
 
 
 
