@@ -1,28 +1,35 @@
 # Test002-ReduxWebPack
 
 
-https://www.valentinog.com/blog/react-redux-tutorial-beginners/
+
 
 
 # How to install redux library:
-
 
 npm install --save redux
 
 
 # How to install react-redux:
-
-
+```
 npm i react-redux --save-dev
+```
+
+# Fetch to access web services
+To fetch the items, we’re going to use the aptly named Fetch API. Fetch makes making requests much easier than the classic XMLHttpRequest and returns a promise of the resolved response (which is important to Thunk). Fetch isn’t available in all browsers, so you’ll need to add it as a dependency to your project with:
+
+```
+npm install whatwg-fetch --save
+```
+
+
 
 
 ```
 Give examples
 ```
 
-## Built With
+## Inspired by
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Valentinog](https://www.valentinog.com/blog/react-redux-tutorial-beginners/) - React Redux Tutorial
+
 
