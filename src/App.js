@@ -5,7 +5,6 @@ import Store from "./js/store/";
 const App = () => {
   return (
     <div>
-      <Store /> 
       <p>React here with store!</p>
     </div>
   );
@@ -13,4 +12,4 @@ const App = () => {
 
 export default App;
 
-ReactDOM.render(<App> </App>, document.getElementById("app"));
+ReactDOM.render(<App/>, document.getElementById("app"));
