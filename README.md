@@ -10,6 +10,7 @@ npm install --save redux
 
 
 # How to install react-redux:
+
 ```
 npm i react-redux --save-dev
 ```
