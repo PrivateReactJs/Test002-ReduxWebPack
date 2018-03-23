@@ -31,7 +31,7 @@ npm install redux-thunk --save
 By default, Redux action creators don’t support asynchronous actions like fetching data, so here’s where we utilise Redux Thunk. Thunk allows you to write action creators that return a function instead of an action.
 
 
-#Building
+# Building
 ```
 npm run build creates a production build by default.
 ```
@@ -45,3 +45,7 @@ npm run clean will delete built resources.
 * [Valentinog](https://www.valentinog.com/blog/react-redux-tutorial-beginners/) - React Redux Tutorial
 
 
+# Autres
+* [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* [Redux: Avoiding Array Mutations with concat(), slice(), and ...spread](https://egghead.io/lessons/react-redux-avoiding-array-mutations-with-concat-slice-and-spread)
+* [Redux: Avoiding Object Mutations with Object.assign() and ...spread](https://egghead.io/lessons/react-redux-avoiding-object-mutations-with-object-assign-and-spread)
